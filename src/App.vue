@@ -5,7 +5,7 @@
       <h1>God jul!</h1>
       <h2>
         <a
-          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          href="https://www.youtube.com/watch?v=ub82Xb1C8os"
           target="_blank"
           rel="noopener noreferrer"
           >Trykk her for en fin julehilsen</a
